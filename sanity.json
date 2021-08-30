@@ -14,7 +14,8 @@
     "@sanity/default-login",
     "@sanity/desk-tool",
     "@sanity/code-input",
-    "@sanity/production-preview"
+    "@sanity/production-preview",
+    "asset-source-unsplash"
   ],
   "env": {
     "development": {
